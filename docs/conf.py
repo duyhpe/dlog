@@ -66,7 +66,11 @@ extensions = [
 ]
 
 html_theme = "sphinx_rtd_theme"
-
+html_context = {
+  "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+  "last_updated": True,
+  "commit": False,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
