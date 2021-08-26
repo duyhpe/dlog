@@ -17,9 +17,9 @@ Dlog - Thư viện IoT
 
 .. rubric:: Tham khảo
 
-* `Project home page at GitHub`__
-* `Package listing in PyPI`__
-* `Documentation at ReadTheDocs`__
+* `Github của tôi`__
+* `Kho thư viện PyPI`__
+* `Thư viện bên ngoài`__
 
 __ https://github.com/nateshmbhat/pyttsx3
 __ http://pypi.python.org/pypi/pyttsx3
