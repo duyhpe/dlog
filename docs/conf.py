@@ -21,7 +21,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'pyttsx3'
+project = 'DLog'
 copyright = '2021'
 author = 'Duy.Hpe@gmail.com'
 
