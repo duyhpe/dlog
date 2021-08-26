@@ -4,7 +4,7 @@ Dlog - Thư viện IoT
 
 Đây là tài liệu phiên bản |release| được tạo ngày |today|.
 
-.. rubric:: Mục lcụ
+.. rubric:: Mục lục
 
 .. toctree::
    :maxdepth: 2
